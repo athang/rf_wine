@@ -105,6 +105,10 @@ library(mda)
 library(klaR)
 # install.packages("Metrics")
 library(Metrics)
+# install.packages("ellipse")
+library(ellipse)
+# install.packages("kernlab")
+library(kernlab)
 
 #### import the dataset ####
 
